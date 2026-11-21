@@ -1,5 +1,9 @@
 # Project Build Room company starter
 
+## Company pitch
+
+Kinship Business Banking is a fictional company in London. It opens business accounts for family-run businesses. It does not claim a real banking licence and it does not lend. The customers are Metalwharf Grocers and Canada Circle Lettings. One must never see the other's records.
+
 Your company starts here. You're its only security engineer.
 
 ## Set up (5 minutes)

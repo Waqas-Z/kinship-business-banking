@@ -1,4 +1,4 @@
-# Kinship Business Banking
+›# Kinship Business Banking
 
 - **Company:** Kinship Business Banking, a fictional business-account company in London
 - **Mission:** Open a business account for a family-run business, and keep that business’s records separate from every other customer.
